@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NonStart
+comment0.text=\r\n\ This\ class\ includes\ the\ method\ nonStart.\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=a\ b
+comment1.target=java.lang.String\ nonStart(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Returns\ the\ string\ a\ without\ the\ first\ character\ and\ the\ string\ b\ without\ the\ first\ character.\r\n\ @param\ a\ A\ String\r\n\ @param\ b\ A\ String\r\n\ @return\ Returns\ the\ string\ a\ without\ the\ first\ character\ and\ the\ string\ b\ without\ the\ first\ character.\r\n
+numComments=2

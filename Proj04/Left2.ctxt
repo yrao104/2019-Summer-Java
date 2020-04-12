@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Left2
+comment0.text=\r\n\ This\ class\ includes\ the\ method\ left2\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=str
+comment1.target=java.lang.String\ left2(java.lang.String)
+comment1.text=\r\n\ Returns\ a\ string\ where\ the\ first\ 2\ chars\ are\ moved\ to\ the\ end\r\n\ @param\ str\ A\ String\r\n\ @return\ Returns\ str\ with\ the\ first\ 2\ chars\ moved\ to\ the\ end\r\n
+numComments=2

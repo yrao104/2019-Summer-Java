@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MakeTags
+comment0.text=\r\n\ This\ class\ includes\ the\ method\ makeTags\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=tag\ word
+comment1.target=java.lang.String\ makeTags(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Returns\ a\ string\ where\ the\ second\ string\ is\ drawn\ as\ italic\ text\r\n\ @param\ tag\ A\ String\r\n\ @param\ word\ A\ String\r\n\ @return\ Returns\ word\ drawn\ as\ italic\ text\r\n
+numComments=2

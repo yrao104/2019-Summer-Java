@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MakeOutWord
+comment0.text=\r\n\ This\ class\ includes\ a\ method\ called\ makeOutWord.\r\n\r\n\ @author\ (Yamuna)\r\n\ @version\ (1.0)\r\n
+comment1.params=out\ word
+comment1.target=java.lang.String\ makeOutWord(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Returns\ the\ string\ word\ inside\ of\ the\ string\ out.\r\n\ @param\ out\ A\ 4\ character\ string.\r\n\ @param\ word\ A\ word\r\n\ @return\ Returns\ the\ string\ word\ inside\ of\ the\ string\ out\r\n
+numComments=2
