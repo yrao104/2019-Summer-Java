@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DescriptionPane
+comment1.params=
+comment1.target=DescriptionPane()
+comment2.params=title
+comment2.target=void\ setTitle(java.lang.String)
+comment2.text=Set\ the\ title
+comment3.params=icon
+comment3.target=void\ setImageView(javafx.scene.image.ImageView)
+comment3.text=Set\ the\ image\ view
+comment4.params=text
+comment4.target=void\ setDescription(java.lang.String)
+comment4.text=Set\ the\ text\ description
+numComments=5

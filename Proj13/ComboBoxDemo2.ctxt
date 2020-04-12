@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ComboBoxDemo2
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=index
+comment2.target=void\ setDisplay(int)
+comment2.text=Set\ display\ information\ on\ the\ description\ pane
+numComments=3
