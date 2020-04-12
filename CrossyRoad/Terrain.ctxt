@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Terrain
+comment0.text=\r\n\ This\ class\ represents\ the\ roads\ in\ the\ game.\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Terrain()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Terrain\r\n
+comment2.params=vehicle
+comment2.target=void\ getVehicleObject(Vehicle)
+comment2.text=\r\n\ Gets\ the\ vehicle\ instance\ from\ GameViewer\ to\ create\ the\ cars\r\n\ @param\ vehicle\ The\ vehicle\ object\r\n
+comment3.params=i
+comment3.target=void\ createTerrain(int)
+comment3.text=\r\n\ Creates\ a\ new\ road\ and\ grass\ stretch\ after\ the\ road\r\n\ @param\ i\ An\ integer\r\n
+comment4.params=widthgrass\ widthroad\ yvalue
+comment4.target=void\ createGrassSet(int,\ int,\ int)
+comment4.text=\r\n\ Creates\ as\ a\ set\ of\ trees\ based\ on\ the\ width\ of\ the\ grass\ stretch\r\n\ @param\ widthgrass\ The\ integer\ width\ of\ the\ grass\ in\ the\ terrain\ class\r\n\ @param\ widthroad\ The\ integer\ width\ of\ the\ road\ in\ the\ terrain\ class\r\n\ @param\ yvalue\ The\ integer\ y\ value\ of\ the\ rectangle\ for\ the\ grass\ stretch\r\n
+numComments=5

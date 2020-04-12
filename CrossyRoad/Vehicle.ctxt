@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ This\ class\ represents\ the\ vehicles\ in\ the\ game.\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=chicken\ ds\ borderPane\ terraina\ scene
+comment1.target=Vehicle(Chicken,\ DistanceScore,\ javafx.scene.layout.BorderPane,\ Terrain,\ javafx.scene.Scene)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vehicle\r\n
+comment2.params=widthroad\ yvalue1\ yvalue2\ yvalue3
+comment2.target=void\ createVehicle(int,\ int,\ int,\ int)
+comment2.text=\r\nCreates\ a\ random\ vehicle\ at\ a\ random\ location\ on\ the\ road\ that\ moves\ off\ the\ screen.\r\n@param\ widthroad\ The\ integer\ value\ of\ the\ width\ of\ the\ road\ being\ created\r\n@param\ yvalue1\ The\ yvalue\ that\ the\ image\ is\ going\ to\ show\ up\ at\r\n@param\ yvalue2\ the\ second\ y\ value\ where\ the\ image\ is\ going\ to\ show\ up\ at\r\n@param\ yalue3\ the\ third\ y\ value\ where\ the\ image\ is\ going\ to\ show\ up\ at\r\n
+comment3.params=carleft\ carright\ carright1\ line1\ line2\ line3\ widthroad
+comment3.target=void\ createCars(javafx.scene.image.ImageView,\ javafx.scene.image.ImageView,\ javafx.scene.image.ImageView,\ javafx.scene.shape.Line,\ javafx.scene.shape.Line,\ javafx.scene.shape.Line,\ int)
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DistanceScore
+comment0.text=\r\n\ This\ class\ creates\ and\ updates\ the\ distance\ score\ in\ the\ top\ right\ hand\ corner\ of\ the\ scren.\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=DistanceScore()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DistanceScore\r\n
+comment2.params=
+comment2.target=void\ updateScore()
+comment2.text=\r\n\ Updates\ the\ score\r\n
+comment3.params=
+comment3.target=int\ getDistanceScore()
+comment3.text=\r\n\ Returns\ the\ current\ distance\ score\r\n\ @return\ distancescore\ The\ current\ distance\ score\r\n
+numComments=4
