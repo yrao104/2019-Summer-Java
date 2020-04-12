@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Power
+comment0.text=\r\n\ \ \ Computes\ x^n\ (x\ raised\ to\ the\ nth\ power).\ Although\ the\ value\r\n\ \ \ of\ x\ can\ be\ positive\ or\ negative,\ the\ value\ of\ the\ integer\ n\r\n\ \ \ should\ be\ non-negative.\r\n\r\n\ \ \ Input\:\ x,\ the\ double\ value\ to\ be\ raised\ to\ the\ nth\ power.\r\n\ \ \ Input\:\ n,\ the\ integer\ value\ to\ which\ x\ is\ to\ be\ raised.\r\n\ \ \ Output\:\ x^n\ --\ the\ value\ of\ x\ raised\ to\ the\ nth\ power.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
