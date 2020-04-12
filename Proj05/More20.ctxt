@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=More20
+comment0.text=\r\n\ This\ class\ includes\ a\ method\ called\ caughtSpeeding.\r\n\r\n\ @author\ (Yamuna)\r\n\ @version\ (1.0)\r\n
+comment1.params=n
+comment1.target=boolean\ more20(int)
+comment1.text=\r\n\ Returns\ true\ if\ the\ given\ non-negative\ number\ is\ 1\ or\ 2\ more\ than\ a\ multiple\ of\ 20.\r\n\ @param\ n\ Integer\r\n\ @return\ Returns\ true\ or\ false\r\n
+numComments=2

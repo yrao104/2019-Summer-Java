@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AnswerCell
+comment0.text=\r\n\ This\ class\ includes\ a\ method\ called\ answerCell.\r\n\r\n\ @author\ (Yamuna)\r\n\ @version\ (1.0)\r\n
+comment1.params=isMorning\ isMom\ isAsleep
+comment1.target=boolean\ answerCell(boolean,\ boolean,\ boolean)
+numComments=2

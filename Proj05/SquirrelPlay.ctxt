@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SquirrelPlay
+comment0.text=\r\n\ This\ class\ includes\ a\ method\ called\ squirrelPlay.\r\n\r\n\ @author\ (Yamuna)\r\n\ @version\ (1.0)\r\n
+comment1.params=temp\ isSummer
+comment1.target=boolean\ squirrelPlay(int,\ boolean)
+numComments=2

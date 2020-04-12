@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SortaSum
+comment0.text=\r\n\ This\ class\ includes\ a\ method\ called\ squirrelPlay.\r\n\r\n\ @author\ (Yamuna)\r\n\ @version\ (1.0)\r\n
+comment1.params=a\ b
+comment1.target=int\ sortaSum(int,\ int)
+numComments=2

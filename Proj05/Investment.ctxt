@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Investment
+comment0.text=\r\n\ \ \ A\ class\ to\ monitor\ the\ growth\ of\ an\ investment\ that\ \r\n\ \ \ accumulates\ interest\ at\ a\ fixed\ annual\ rate.\r\n
+comment1.params=aBalance\ aRate
+comment1.target=Investment(double,\ double)
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ an\ Investment\ object\ from\ a\ starting\ balance\ and\r\n\ \ \ \ \ \ interest\ rate.\r\n\ \ \ \ \ \ @param\ aBalance\ the\ starting\ balance\r\n\ \ \ \ \ \ @param\ aRate\ the\ interest\ rate\ in\ percent\r\n
+comment2.params=targetBalance
+comment2.target=void\ waitForBalance(double)
+comment2.text=\r\n\ \ \ \ \ \ Keeps\ accumulating\ interest\ until\ a\ target\ balance\ has\r\n\ \ \ \ \ \ been\ reached.\r\n\ \ \ \ \ \ @param\ targetBalance\ the\ desired\ balance\r\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment3.text=\r\n\ \ \ \ \ \ Gets\ the\ current\ investment\ balance.\r\n\ \ \ \ \ \ @return\ the\ current\ balance\r\n
+comment4.params=
+comment4.target=int\ getYears()
+comment4.text=\r\n\ \ \ \ \ \ Gets\ the\ number\ of\ years\ this\ investment\ has\ accumulated\r\n\ \ \ \ \ \ interest.\r\n\ \ \ \ \ \ @return\ the\ number\ of\ years\ since\ the\ start\ of\ the\ investment\r\n
+numComments=5

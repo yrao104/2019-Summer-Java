@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TeenSum
+comment0.text=\r\n\ This\ class\ includes\ a\ method\ called\ teenSum.\r\n\r\n\ @author\ (Yamuna)\r\n\ @version\ (1.0)\r\n
+comment1.params=n
+comment1.target=boolean\ old35(int)
+numComments=2

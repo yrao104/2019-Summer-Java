@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PhoneNumbers
+comment1.params=phoneNumber
+comment1.target=java.lang.String\ cleanNumber(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ Cleans\ a\ phone\ number.\r\n\ \ \ \ \ \ @param\ phoneNumber\ a\ phone\ number\ that\ should\ contain\ ten\ digits\ and\ possibly\ other\ characters\r\n\ \ \ \ \ \ @return\ the\ phone\ number\ in\ the\ form\ (\#\#\#)\ \#\#\#-\#\#\#\#\ or\ the\ string\ "Error"\ if\ phoneNumber\r\n\ \ \ \ \ \ does\ not\ have\ ten\ digits\r\n
+numComments=2

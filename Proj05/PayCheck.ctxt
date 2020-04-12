@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PayCheck
+comment0.text=\r\n\ This\ class\ calculates\ a\ pay\ check.\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=hourlyWage\ name
+comment1.target=PayCheck(double,\ java.lang.String)
+comment2.params=hoursAdded
+comment2.target=void\ addHours(double)
+comment3.params=dollarIncrease
+comment3.target=void\ raisePay(double)
+comment4.params=
+comment4.target=double\ calcWeekPay()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
