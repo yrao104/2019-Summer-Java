@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SortAndSearchDemo
+comment0.text=\r\n\ \ \ This\ program\ demonstrates\ the\ merge\ sort\ algorithm\ by\r\n\ \ \ 5\ sorting\ an\ array\ that\ is\ filled\ with\ random\ numbers.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

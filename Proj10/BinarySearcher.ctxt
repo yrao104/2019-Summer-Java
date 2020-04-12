@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BinarySearcher
+comment0.text=\r\n\ \ \ A\ class\ for\ executing\ binary\ searches\ in\ an\ array.\r\n
+comment1.params=a\ low\ high\ value
+comment1.target=int\ search(int[],\ int,\ int,\ int)
+comment1.text=\r\n\ \ \ \ \ \ Finds\ a\ value\ in\ a\ range\ of\ a\ sorted\ array\ -\ this\ is\ a\ recursive\ method\r\n\ \ \ \ \ \ @param\ a\ the\ array\ in\ which\ to\ search\r\n\ \ \ \ \ \ @param\ low\ the\ low\ index\ of\ the\ range\r\n\ \ \ \ \ \ @param\ high\ the\ high\ index\ of\ the\ range\r\n\ \ \ \ \ \ @param\ value\ the\ value\ to\ find\r\n\ \ \ \ \ \ @return\ the\ index\ at\ which\ the\ value\ occurs,\ or\ -1\r\n\ \ \ \ \ \ if\ it\ does\ not\ occur\ in\ the\ array\r\n
+comment2.params=b\ low\ high\ value
+comment2.target=int\ searchString(java.lang.String[],\ int,\ int,\ java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ Finds\ a\ value\ in\ a\ range\ of\ a\ sorted\ array\ -\ this\ is\ a\ recursive\ method\r\n\ \ \ \ \ \ @param\ a\ the\ array\ in\ which\ to\ search\r\n\ \ \ \ \ \ @param\ low\ the\ low\ index\ of\ the\ range\r\n\ \ \ \ \ \ @param\ high\ the\ high\ index\ of\ the\ range\r\n\ \ \ \ \ \ @param\ value\ the\ value\ to\ find\r\n\ \ \ \ \ \ @return\ the\ index\ at\ which\ the\ value\ occurs,\ or\ -1\r\n\ \ \ \ \ \ if\ it\ does\ not\ occur\ in\ the\ array\r\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Recursion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ x\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=int\ nFactorial(int)
+comment2.params=n
+comment2.target=int\ sumOfSqs(int)
+comment3.params=n
+comment3.target=int\ fib(int)
+comment4.params=n\ r\ initBal
+comment4.target=double\ compSave(int,\ double,\ double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
