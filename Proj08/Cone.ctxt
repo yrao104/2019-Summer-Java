@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cone
+comment0.text=\r\n\ Calculates\ the\ surface\ area\ and\ volume\ of\ a\ cone.\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=radius\ height
+comment1.target=Cone(double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cone\r\n
+comment2.params=
+comment2.target=double\ getVolume()
+comment2.text=\r\n\ Returns\ the\ volume\ of\ the\ cylinder\r\n\ @return\ The\ volume\ of\ the\ cylinder\r\n
+comment3.params=
+comment3.target=double\ getSurface()
+comment3.text=\r\n\ Returns\ the\ surface\ area\ of\ the\ cylinder\r\n\ @return\ The\ surface\ area\ of\ the\ cylinder\r\n
+numComments=4
