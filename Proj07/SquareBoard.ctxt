@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SquareBoard
+comment1.params=sideLength
+comment1.target=SquareBoard(int)
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ an\ empty\ square\ game\ board.\r\n\ \ \ \ \ \ @param\ sideLength\ the\ length\ of\ each\ side\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ \ \ \ \ \ Creates\ a\ string\ representation\ of\ the\ board,\ such\ as\r\n\ \ \ \ \ \ |x\ o|\r\n\ \ \ \ \ \ |\ x\ |\r\n\ \ \ \ \ \ |\ o\ |.\r\n\ \ \ \ \ \ @return\ the\ string\ representation\r\n
+comment3.params=
+comment3.target=void\ fillDiagonals()
+comment3.text=\r\n\ \ \ \ \ \ Fills\ the\ diagonals\ of\ this\ square\ board\ with\ "*"\ strings.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
