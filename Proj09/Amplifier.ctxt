@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Amplifier
+comment0.text=\r\n\ This\ class\ represents\ an\ amplifier.\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Amplifier()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Amplifier\r\n
+comment2.params=
+comment2.target=double\ getGain()
+comment2.text=\r\n\ Returns\ the\ gain\ of\ the\ amplifier\r\n\r\n\ @return\ gain\ The\ gain\ of\ the\ amplifier\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Returns\ the\ type\ of\ amplifier\r\n\r\n\ @return\ description\ A\ string\ identifying\ the\ type\ of\ amplifier\r\n
+numComments=4

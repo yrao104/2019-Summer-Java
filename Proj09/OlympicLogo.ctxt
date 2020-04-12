@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OlympicLogo
+comment1.params=cx\ cy\ radius
+comment1.target=OlympicLogo(double,\ double,\ double)
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+numComments=3

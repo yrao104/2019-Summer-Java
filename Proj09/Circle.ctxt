@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=cx\ cy\ radius
+comment1.target=Circle(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getRadius()
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+comment4.params=dx\ dy
+comment4.target=void\ translate(double,\ double)
+numComments=5

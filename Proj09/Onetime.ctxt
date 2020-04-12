@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Onetime
+comment0.text=\r\n\ This\ is\ a\ subclass\ of\ Apointment.\r\n\r\n\ @author\ (Yamuna\ Rao)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Onetime()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Onetime\r\n
+comment2.params=monthGiven\ dayGiven\ yearGiven
+comment2.target=void\ setDate(int,\ int,\ int)
+comment2.text=\r\n\ Sets\ the\ date\ of\ the\ appointment\r\n\r\n\ @param\ \ monthGiven\ the\ month\ the\ user\ gives\r\n\ @param\ \ dayGiven\ the\ day\ the\ user\ gives\r\n\ @param\ \ yearGiven\ the\ year\ the\ user\ gives\r\n
+comment3.params=month\ day\ year
+comment3.target=boolean\ occursOn(int,\ int,\ int)
+comment3.text=\r\n\ Checks\ whether\ the\ appointment\ occurs\ on\ that\ date\r\n\r\n\ @param\ \ year\ The\ year\ of\ the\ appointment\r\n\ @param\ \ month\ The\ month\ of\ the\ appointment\r\n\ @param\ \ day\ The\ day\ of\ the\ appointment\r\n\ @return\ statement\ A\ String\ letting\ the\ user\ know\ when\ the\ appointment\ occurs\r\n
+numComments=4

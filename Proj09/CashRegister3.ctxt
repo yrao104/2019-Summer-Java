@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CashRegister3
+comment0.text=\r\n\ A\ cash\ register\ totals\ up\ sales\ and\ computes\ change\ due.\r\n\ @author\ A.\ Nguyen\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=CashRegister3()
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ a\ cash\ register\ with\ no\ money\ in\ it.\r\n
+comment2.params=amount
+comment2.target=void\ recordPurchase(double)
+comment2.text=\r\n\ \ \ \ \ \ Records\ the\ purchase\ price\ of\ an\ item.\r\n\ \ \ \ \ \ @param\ amount\ the\ price\ of\ the\ purchased\ item\r\n
+comment3.params=count\ coinType
+comment3.target=void\ receivePayment(int,\ Coin)
+comment3.text=\r\n\ \ \ \ \ \ Record\ (part\ of)\ the\ payment,\ per\ coin\ type,\ and\ accumlate\ into\ total\ payment\r\n\ \ \ \ \ \ @param\ count\ number\ of\ coins\ received\r\n\ \ \ \ \ \ @param\ coinType\ the\ coin\ received\r\n
+comment4.params=
+comment4.target=double[]\ getReceiptInfo()
+comment4.text=\r\n\ \ \ \ \ \ Computes\ the\ change\ due\ and\ resets\ the\ machine\ for\ the\ next\ customer.\r\n\ \ \ \ \ \ @return\ the\ change\ due\ to\ the\ customer\r\n
+comment5.params=
+comment5.target=int[]\ giveChange()
+comment5.text=\r\n\ \ \ \ \ \ Computes\ the\ change\ due\ and\ resets\ the\ machine\ for\ the\ next\ customer.\r\n\ \ \ \ \ \ @return\ the\ change\ due\ to\ the\ customer\r\n
+comment6.params=payment\ purchase
+comment6.target=double[]\ addTransaction(double,\ double)
+numComments=7

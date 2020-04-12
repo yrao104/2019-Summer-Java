@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=OlympicComponent
+comment0.text=\r\n\ This\ component\ draws\ a\ few\ cars.\r\n\ @author\ C.\ Horstmann,\ modified\ by\ A.\ Nguyen\r\n\ @version\ 2.0\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+numComments=2

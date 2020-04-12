@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ChoiceQuestion
+comment1.params=
+comment1.target=ChoiceQuestion()
+comment2.params=answerChoice
+comment2.target=void\ addChoice(java.lang.String)
+comment2.text=\r\n\ Adds\ an\ answer\ choice\ the\ the\ array\ of\ answer\ choices\r\n\ @param\ answerChoice\ The\ String\ that\ represents\ your\ answer\ choice\r\n
+comment3.params=
+comment3.target=void\ display()
+comment3.text=\r\n\ Displays\ the\ question\ text\ as\ well\ as\ the\ answer\ choices\ numbered\ from\ 1\ on.\r\n
+numComments=4
