@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=E23
+comment0.text=\ Write\ a\ program\ that\ intializes\ a\ string\ with\ "Mississippi".\ Then\ replace\ "i"\r\n\ with\ "ii"\ and\ print\ the\ length\ of\ the\ resulting\ string.\ In\ that\ string,\ \r\n\ replace\ all\ "ss"\ with\ "s"\ and\ print\ the\ length\ of\ the\ resulting\ string.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HollePrinter
+comment0.text=\ Write\ a\ program\ HollePrinter\ that\ switches\ the\ letters\ "e"\ and\ "o"\ in\ a\ \r\n\ string.\ Use\ the\ replace\ method\ repeatedly.\ Demonstrate\ that\ the\ string\ "Hello\r\n\ ,\ World"\ turns\ into\ "Holle,\ World\!"\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
