@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=E121
+comment0.text=\ Find\ 2\ phrases\ that\ require\ the\ Unicode\ Table\ for\ diacritical\ marks\ including\r\n\ the\ English\ translation\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
