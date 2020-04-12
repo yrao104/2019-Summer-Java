@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ This\ class\ represents\ an\ employee.\r\n\r\n\ @author\ (Yamuna)\r\n\ @version\ (1.0)\r\n
+comment1.params=employeeName\ currentSalary
+comment1.target=Employee(java.lang.String,\ double)
+comment1.text=\r\n\ Initialize\ name\ to\ the\ employee's\ name\ and\ intialize\ the\ salary\ to\ the\ current\ salary.\r\n\ @param\ employeeName\ Employee's\ name\r\n\ @param\ currentSalary\ Current\ salary\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Return\ the\ employee's\ name.\r\n\ @return\ Name\r\n
+comment3.params=
+comment3.target=double\ getSalary()
+comment3.text=\r\n\ Return\ the\ employee's\ salary.\r\n\ @return\ Current\ salary\r\n
+comment4.params=byPercent
+comment4.target=void\ raiseSalary(double)
+comment4.text=\r\n\ Raise\ employee's\ salary\ by\ a\ certain\ percentage\r\n\ @param\ byPercent\ Percent\ to\ raise\ salary.\r\n\ @return\ Current\ Balance\r\n
+numComments=5

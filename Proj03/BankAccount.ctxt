@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\r\n\ This\ class\ represents\ a\ bank\ account.\r\n\r\n\ @author\ Yamuna\ Rao\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=BankAccount()
+comment1.text=\r\n\ Initialize\ balance\ to\ zero.\r\n
+comment2.params=initBal
+comment2.target=BankAccount(double)
+comment2.text=\r\n\ Initialize\ balance\ to\ given\ balance.\r\n\ @param\ initBal\ Initial\ balance\r\n
+comment3.params=amt
+comment3.target=void\ deposit(double)
+comment3.text=\r\n\ Add\ to\ balance.\r\n\ @param\ amt\ Amount\ to\ deposit\r\n
+comment4.params=amt
+comment4.target=void\ withdraw(double)
+comment4.text=\r\n\ Subtract\ from\ balance.\r\n\ @param\ amt\ Amount\ to\ withdraw\r\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\r\n\ Return\ the\ current\ balance\r\n\ @return\ Current\ Balance\r\n
+comment6.params=rate
+comment6.target=void\ addInterest(double)
+comment6.text=\r\n\ Add\ interest\ at\ the\ given\ rate\r\n\ @param\ rate\ Interest\ rate\ added\ to\ the\ balance\r\n
+numComments=7
